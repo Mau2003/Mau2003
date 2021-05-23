@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/mau_dev/
 [twitch]: https://www.twitch.tv/mauosu
 [discord]: https://discord.com/users/364935263828574232
-[reddit]: https://www.reddit.com/user/notkyoyo
+[reddit]: https://www.reddit.com/user/maudeveloper
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mau2003&layout=compact)
